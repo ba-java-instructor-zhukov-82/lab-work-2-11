@@ -2,7 +2,7 @@ Brain Academy
 ============= 
 #Java Core Course
 
-##Laboratory Work 2.10
+##Laboratory Work 2.11
 ###Theme: Wrapper classes
 
 ####Laboratory Work 2.11.1.
